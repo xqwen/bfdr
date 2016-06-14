@@ -17,4 +17,6 @@ Software distributed under the terms of the GNU General Public License as publis
 
 
  
+## Reference and Citation
 
+Wen, X. Robust Bayesian FDR Control using Bayes Factors, with Applications to Multi-tissue eQTL Discovery. Statistics in Biosciences (In press).
